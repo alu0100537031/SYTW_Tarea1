@@ -16,3 +16,13 @@ Una vez concluida la instalación, para asegurarnos de que se ha instalado, ejec
 rvm -v
 ```
 ![instalacion de rvm](https://github.com/alu0100537031/SYTW_Tarea1/blob/master/img02.png)
+
+
+* **Instalación de Git**
+
+	En mi caso yo ya tenia git instalado en mi sistema asi que no tuve que hacer nada.
+	Para comprobar la vesión de git ejecutamos 
+
+	`$ git --version`
+
+	![instalacion de rvm](https://github.com/alu0100537031/SYTW_Tarea1/blob/master/img03.png)
