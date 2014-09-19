@@ -9,3 +9,10 @@
 	`$ rvm reload`
 ![instalacion de rvm](https://github.com/alu0100537031/SYTW_Tarea1/blob/master/img01.png)
 
+Una vez concluida la instalación, para asegurarnos de que se ha instalado, ejecutamos el siguiente comando:
+
+
+```sh
+rvm -v
+```
+
