@@ -15,4 +15,4 @@ Una vez concluida la instalación, para asegurarnos de que se ha instalado, ejec
 ```sh
 rvm -v
 ```
-
+![instalacion de rvm](https://github.com/alu0100537031/SYTW_Tarea1/blob/master/img02.png)
